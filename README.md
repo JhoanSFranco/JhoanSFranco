@@ -57,7 +57,7 @@ Whether you're interested in collaborating, exchanging ideas, or simply having a
 Let’s grow and build great software together! 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhoan-sebastián-franco-46954b28a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jhfrancor@unal.edu.co)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=jhfrancor@unal.edu.co)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-jhoansfrancos-projects.vercel.app/)
 
 

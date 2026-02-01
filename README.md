@@ -1,7 +1,7 @@
 # Welcome to my Profile! 👋
 
 Hello, my name is **Jhoan Sebastián Franco Ruiz** 👨‍💻  
-Welcome to my GitHub profile! Here you will find a collection of projects, contributions, and ideas that reflect my passion for **software engineering**, **backend development**, and **cloud technologies**.
+Welcome to my GitHub profile! Here you will find a collection of projects, contributions, and ideas that reflect my passion for **software engineering**, **backend development**, **cloud technologies** and IA aplications.
 
 Explore my work and projects also on my portfolio:  
 🔗 https://portafolio-jhoansfrancos-projects.vercel.app/

@@ -13,7 +13,7 @@ Explore my work and projects also on my portfolio:
 - 🎓 I am currently studying **Systems & Computing Engineering** at **Universidad Nacional de Colombia**
 - 💻 Backend-focused **Software / Fullstack Developer**
 - 🐍 Passionate about building APIs and backend systems with **Python**
-- ☁️ Interested in **cloud computing**, **distributed systems**, and **software architecture**
+- ☁️ Interested in **cloud computing**, **distributed systems**,  **software architecture** and **IOT**
 - 🌐 I also develop frontend integrations using **React**
 
 ---

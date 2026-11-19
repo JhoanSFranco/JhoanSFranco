@@ -4,7 +4,7 @@
 
 Double-degree engineering student at **IMT Atlantique** (France) and **Universidad Nacional de Colombia**, specializing in **distributed systems**. I build backend services and APIs in Python, and I've shipped full-stack features in production.
 
-🔗 [Portfolio](https://portafolio-livid-psi-25.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jhoan-sebasti%C3%A1n-franco-46954b28a/) · [Email](mailto:jhfrancor@unal.edu.co)
+🔗 [Portfolio](https://portafolio-livid-psi-25.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jhoan-sebasti%C3%A1n-franco-46954b28a/) · [Email](mailto:solosebax265@gmail.com)
 
 ---
 

@@ -25,7 +25,7 @@ Double-degree engineering student at **IMT Atlantique** (France) and **Universid
 |---|---|---|
 | [SGA – Academic Management System](https://github.com/lobo-ingesoft-II) | Team project (UNAL): academic management system for a school, built as microservices for students, courses, grades, attendance, authentication and PDF generation | Python · FastAPI · MongoDB · TypeScript |
 | [Hass Avocado Ripeness Detection](https://github.com/JhoanSFranco/avocado-ripeness-ai) | Computer vision model that classifies Hass avocado ripeness, served through an API with a web interface | PyTorch · FastAPI · React |
-| IMT × Clever Cloud project *(private)* | One-line description of the problem it solves | Tech · Tech |
+| Real-time CDC Data Pipeline for Clever Cloud *(IMT project, private, ongoing)* | POC of a real-time Change Data Capture architecture for incremental ingestion from multiple sources into a data warehouse, with experimental evaluation of pipeline performance, consistency and reliability | Debezium · Apache Pulsar · Apache Flink |
 
 ---
 
@@ -56,6 +56,11 @@ Double-degree engineering student at **IMT Atlantique** (France) and **Universid
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apachecassandra&logoColor=white)
+
+**Data Engineering**  
+![Debezium](https://img.shields.io/badge/Debezium-91D443?style=flat&logoColor=white)
+![Apache Pulsar](https://img.shields.io/badge/Apache_Pulsar-188FFF?style=flat&logo=apachepulsar&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat&logo=apacheflink&logoColor=white)
 
 **Cloud & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
